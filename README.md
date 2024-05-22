@@ -10,5 +10,3 @@
 **- When someone will login you will receive his credentials and he will be redirected to a funny video on Instagram for example.**<br/>
 **- You can edit the redirection link by editing it on line 108 in the js part in HTML code.**<br/>
 ![image](https://user-images.githubusercontent.com/81310818/123550314-4d1bb280-d76d-11eb-8ca0-cec48b286461.png)<br>
-# private-instagram
-# private-instagram
